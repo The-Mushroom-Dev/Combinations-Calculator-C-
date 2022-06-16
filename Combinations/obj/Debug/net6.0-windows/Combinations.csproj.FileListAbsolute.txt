@@ -1,0 +1,17 @@
+C:\Users\qqqq7\source\repos\Combinations\bin\Debug\net6.0-windows\Combinations.exe
+C:\Users\qqqq7\source\repos\Combinations\bin\Debug\net6.0-windows\Combinations.deps.json
+C:\Users\qqqq7\source\repos\Combinations\bin\Debug\net6.0-windows\Combinations.runtimeconfig.json
+C:\Users\qqqq7\source\repos\Combinations\bin\Debug\net6.0-windows\Combinations.dll
+C:\Users\qqqq7\source\repos\Combinations\bin\Debug\net6.0-windows\Combinations.pdb
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.csproj.AssemblyReference.cache
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.Form1.resources
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.csproj.GenerateResource.cache
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.AssemblyInfoInputs.cache
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.AssemblyInfo.cs
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.dll
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\refint\Combinations.dll
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.pdb
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\Combinations.genruntimeconfig.cache
+C:\Users\qqqq7\source\repos\Combinations\obj\Debug\net6.0-windows\ref\Combinations.dll
